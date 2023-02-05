@@ -36,3 +36,4 @@ class ModelTests(TestCase):
             'ablanyaalex@gmail.com',
             'test123'
         )
+        
